@@ -5,7 +5,7 @@ A collection of all programming activities for the Computer Programming 1 course
 
 ## Program List
 
-Program List and programming conepts used to make it
+Program list and programming concepts used to make it
 
 **Application Form** *if-else-if* 
 
